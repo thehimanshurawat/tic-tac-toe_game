@@ -3,6 +3,6 @@
 
 <p>
   LINK for the hosted site 
-  <a href = "https://tic-tac-toe-by-himanshu.netlify.app/">Click here </a>
+  <a href = "https://tic-tac-toe-by-himanshu.netlify.app/" target="_blank">Click here </a>
   
 </p>
